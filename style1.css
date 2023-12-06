@@ -1,0 +1,15 @@
+h1 {
+    font-size: medium;
+}
+
+h2 {
+    color: rgb(255, 255, 137); font-size: medium;
+}
+
+span {
+    font-style: bold; color: black;
+}
+
+h3 {
+    color: red;
+}
